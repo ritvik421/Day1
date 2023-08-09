@@ -20,6 +20,7 @@ public class Main {
         System.out.println(obj1.num) ;
         String a_string = "Rit" ;
         String s= "siddharth" ;
+        String str = "Likhil" ;
         System.out.println("My name is "+ a_string);
     }
 }
