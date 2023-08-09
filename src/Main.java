@@ -1,6 +1,6 @@
-class Check {
-
-}
+//class Check {
+//
+//}
 class Calculator {
     int num =5 ;
     public int add(int n1,int n2){
@@ -18,7 +18,7 @@ public class Main {
         System.out.println(res) ;
         System.out.println(obj.num) ;
         System.out.println(obj1.num) ;
-        String a_string = "Ritvik" ;
+        String a_string = "Rit" ;
         System.out.println("My name is "+ a_string);
     }
 }
